@@ -1,0 +1,6 @@
+{
+    "name": "admin/localhost",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
